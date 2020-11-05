@@ -154,7 +154,10 @@ function Quiz() {
   return (
     <Container className="d-flex flex-column align-items-center container text-center">
       <h3>
-        Vòng 1 đã kết thúc cảm ơn các chiến binh UIT RUN đã tham gia cuộc thi lần này 
+      Chúc mừng các bạn đã hoàn thành vòng 1 UIT Run Mùa 2 
+      </h3>
+      <h3>
+      Vòng 2 sẽ được thông tin đến các bạn sớm thôi. Cùng theo dõi fanpage nhé
       </h3>
     </Container>
   )
